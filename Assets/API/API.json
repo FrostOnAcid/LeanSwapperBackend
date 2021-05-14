@@ -1,0 +1,18 @@
+{
+    "News": {
+        "newsText": "Welcome to Lean Swapper!",
+        "patchnotes": "[-] Nothing added"
+    },
+    "Status": {
+        "swapperStatus": "Online"
+    },
+    "Fortnite": {
+        "Cosmetics": [
+            {
+                "type": "skin",
+                "name": "renegade raider",
+                "image": "https://fortnite-api.com/images/cosmetics/br/CID_028_Athena_Commando_F/icon.png"
+            }
+        ]
+    }
+}
